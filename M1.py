@@ -1,12 +1,3 @@
-print('BASIR P. WAHAB')
-print('1BSCE-B')
-print()
-print('ICT 09 Programming 1')
-print('FINAL PROJECT')
-print()
-print('MATRIX 1')
-print()
-print()
 
 matrix = [
     [1, 2, 3],
